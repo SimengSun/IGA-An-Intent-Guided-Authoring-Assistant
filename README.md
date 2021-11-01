@@ -44,4 +44,4 @@ Please download IGA checkpoint from [here](https://drive.google.com/file/d/1D5Oz
 python generate.py --model-path $folder_of_model
 ```
 An example output is shown below:
-![Example](https://github.com/SimengSun/IGA-An-Intent-Guided-Authoring-Assistant/image.png)
+![Example](https://github.com/SimengSun/IGA-An-Intent-Guided-Authoring-Assistant/blob/main/image.png)
